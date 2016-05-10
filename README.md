@@ -1,7 +1,10 @@
 # Alz23andMe
 Script to analyze 23andMe raw data for genes associated with Alzheimer's disease risks
 
-USAGE: python Alz23andMe.py <23andMeRawDataFilename>
+__Usage__
+```
+python Alz23andMe.py [23andMeRawDataFilename]
+```
 
 This script analyzes a 23andMe raw data file that can be downloaded from https://www.23andme.com/you/download/ and compares it to many of the genes SNPedia flags as related to Alzheimer's diseases.  Genes which SNPedia  would indicate an increased risk of Alzheimer's will be highlighted in red. This script makes no guarantee of the accuracy of data provided by 23andMe and SNPedia.  This script also most likely contains errors itself as gene analysis can sometime be ambiguous.  23andMe and SNPedia data often to not line up exactly.  See https://www.snpedia.com/index.php/Orientation
 
