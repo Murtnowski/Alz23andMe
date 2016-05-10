@@ -8,12 +8,10 @@ This script analyzes a 23andMe raw data file that can be downloaded from https:/
 
 I created this script because 23andMe no longer provides medical analysis of health risks and even when it did, it was very limited in which gene it examined for early onset Alzheimers.
 
-This author of this script is not a medical expert.
+This author of this script is not a medical expert.  This script does not store or transmit any data.
 
 DO NOT USE THIS SCRIPT TO MAKE MEDICAL AND HEALTH DECISIONS.
 PLEASE CONSULT A MEDICAL EXPERT IF YOU HAVE CONCERNS ABOUT YOUR HEALTH OR CONCERNS ABOUT ALZHEIMER'S DISEASE.
-
-This script does not store or transmit any data
 
 _Genes Examined_
 
