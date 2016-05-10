@@ -21,7 +21,7 @@ _Genes Examined_
   * rs199768005
   * rs449647
   * rs405509
-*PLD3
+* PLD3
   * rs145999145
 * TREM2
   * rs75932628
