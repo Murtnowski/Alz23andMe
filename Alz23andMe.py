@@ -103,7 +103,8 @@ dna = {
 	"rs63750215": None,
 	"rs63749884": None,
 	"rs63750666": None,
-	"rs61757781": None
+	"rs61757781": None,
+	"rs908832"  : None
 }
 
 def simpleCheck(snp, geno):
@@ -267,3 +268,5 @@ elif dna["rs61757781"] == "AG" or dna["rs61757781"] == "GG":
 	print bcolors.OKBLUE + "http://snpedia.com/index.php/rs61757781" + bcolors.ENDC
 else:
 	print bcolors.OKGREEN + "rs61757781 mutation OK" + bcolors.ENDC
+
+simpleCheck("rs908832", "AA")
