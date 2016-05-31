@@ -60,6 +60,8 @@ _Genes Examined_
   * rs63749884
   * rs63750666
   * rs61757781
+* ABCA2
+  * rs908832
 
 _SNPedia References_
 * http://snpedia.com/index.php/Alzheimer%27s_disease
