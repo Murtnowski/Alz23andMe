@@ -135,7 +135,7 @@ elif dna["rs429358"] == "CT" and dna["rs7412"] == "CC":
 	print bcolors.OKBLUE + "http://snpedia.com/index.php/APOE" + bcolors.ENDC
 	print bcolors.OKBLUE + "http://snpedia.com/index.php/Rs429358" + bcolors.ENDC
 	print bcolors.OKBLUE + "http://snpedia.com/index.php/Rs7412" + bcolors.ENDC
-elif dna["rs429358"] == "CT" and dna["rs7412"] == "CC":
+elif dna["rs429358"] == "CC" and dna["rs7412"] == "CC":
 	print bcolors.FAIL + "APOE4 Homogeneous" + bcolors.ENDC
 	print bcolors.OKBLUE + "rs429358: " + dna["rs429358"] + bcolors.ENDC
 	print bcolors.OKBLUE + "rs7412:   " + dna["rs7412"] + bcolors.ENDC
